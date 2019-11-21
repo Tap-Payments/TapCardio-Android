@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master",
+      "sdkFolder": "/Users/tap3/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/build/intermediates",
+      "gradleModulePathName": ":sdk",
+      "moduleRootFolder": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk",
+      "makeFile": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/.cxx",
+      "cxxFolder": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx",
+      "ndkFolder": "/Users/tap3/Library/Android/sdk/ndk/20.1.5948944",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/build/intermediates/cmake/release/lib",
+    "objFolder": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/build/intermediates/cmake/release/obj",
+    "jsonFolder": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release",
+    "gradleBuildOutputFolder": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cxx/release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release/arm64-v8a",
+  "jsonFile": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release/arm64-v8a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cxx/release/arm64-v8a",
+  "objFolder": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/build/intermediates/cmake/release/obj/arm64-v8a",
+  "buildCommandFile": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release/arm64-v8a/build_command.txt",
+  "buildOutputFile": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release/arm64-v8a/build_output.txt",
+  "modelOutputFile": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release/arm64-v8a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cxx/release/arm64-v8a/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cxx/release/arm64-v8a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cxx/release/arm64-v8a/build_generation_state.json",
+    "cacheKeyFile": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cxx/release/arm64-v8a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cxx/release/arm64-v8a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cxx/release/arm64-v8a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cxx/release/arm64-v8a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release/arm64-v8a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release/arm64-v8a/compile_commands.json"
+}

@@ -1,0 +1,86 @@
+{
+  "buildFiles": [
+    "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/src/main/cpp/CMakeLists.txt",
+    "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/src/main/cpp/armneon2x86sse/CMakeLists.txt",
+    "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/src/main/cpp/eigen/CMakeLists.txt",
+    "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/src/main/cpp/protobuf/CMakeLists.txt",
+    "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/src/main/cpp/caffe/CMakeLists.txt",
+    "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/src/main/cpp/libyuv/CMakeLists.txt",
+    "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/src/main/cpp/crossplatform/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/tap3/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "libcpufeatures-Release-arm64-v8a": {
+      "artifactName": "libcpufeatures",
+      "abi": "arm64-v8a",
+      "output": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/3rdparty/libs/arm64-v8a/libcpufeatures.a"
+    },
+    "opencv_objdetect-Release-arm64-v8a": {
+      "artifactName": "opencv_objdetect",
+      "abi": "arm64-v8a",
+      "output": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/staticlibs/arm64-v8a/libopencv_objdetect.a"
+    },
+    "cardrecognizer-Release-arm64-v8a": {
+      "artifactName": "cardrecognizer",
+      "buildCommand": "/Users/tap3/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release/arm64-v8a --target cardrecognizer",
+      "abi": "arm64-v8a",
+      "output": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/build/intermediates/cmake/release/obj/arm64-v8a/libcardrecognizer.so"
+    },
+    "opencv_core-Release-arm64-v8a": {
+      "artifactName": "opencv_core",
+      "abi": "arm64-v8a",
+      "output": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/staticlibs/arm64-v8a/libopencv_core.a"
+    },
+    "protobuf-Release-arm64-v8a": {
+      "artifactName": "protobuf",
+      "buildCommand": "/Users/tap3/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release/arm64-v8a --target protobuf",
+      "abi": "arm64-v8a",
+      "output": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release/arm64-v8a/protobuf/libprotobuf.a"
+    },
+    "opencv_imgproc-Release-arm64-v8a": {
+      "artifactName": "opencv_imgproc",
+      "abi": "arm64-v8a",
+      "output": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/staticlibs/arm64-v8a/libopencv_imgproc.a"
+    },
+    "opencv_ml-Release-arm64-v8a": {
+      "artifactName": "opencv_ml",
+      "abi": "arm64-v8a",
+      "output": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/staticlibs/arm64-v8a/libopencv_ml.a"
+    },
+    "caffe-Release-arm64-v8a": {
+      "artifactName": "caffe",
+      "buildCommand": "/Users/tap3/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release/arm64-v8a --target caffe",
+      "abi": "arm64-v8a",
+      "output": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release/arm64-v8a/caffe/libcaffe.a"
+    },
+    "opencv_imgcodecs-Release-arm64-v8a": {
+      "artifactName": "opencv_imgcodecs",
+      "abi": "arm64-v8a",
+      "output": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/staticlibs/arm64-v8a/libopencv_imgcodecs.a"
+    },
+    "opencv_videoio-Release-arm64-v8a": {
+      "artifactName": "opencv_videoio",
+      "abi": "arm64-v8a",
+      "output": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/staticlibs/arm64-v8a/libopencv_videoio.a"
+    },
+    "crossplatform-Release-arm64-v8a": {
+      "artifactName": "crossplatform",
+      "buildCommand": "/Users/tap3/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release/arm64-v8a --target crossplatform",
+      "abi": "arm64-v8a",
+      "output": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release/arm64-v8a/crossplatform/libcrossplatform.a"
+    },
+    "libyuv-Release-arm64-v8a": {
+      "artifactName": "libyuv",
+      "buildCommand": "/Users/tap3/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release/arm64-v8a --target libyuv",
+      "abi": "arm64-v8a",
+      "output": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/.cxx/cmake/release/arm64-v8a/libyuv/liblibyuv.a"
+    },
+    "tbb-Release-arm64-v8a": {
+      "artifactName": "tbb",
+      "abi": "arm64-v8a",
+      "output": "/Users/tap3/Documents/android_projects/other/PayCards_Android-master/sdk/src/main/cpp/opencv2/sdk/native/3rdparty/libs/arm64-v8a/libtbb.a"
+    }
+  }
+}
